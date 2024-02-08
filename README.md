@@ -9,6 +9,7 @@
 
 ![WollygrinX GitHub stats](https://github-readme-stats.vercel.app/api?username=wollygrinx&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wollygrinx&hide_progress=true)
 
 ## Tecnologias que eu uso no meu dia
 
