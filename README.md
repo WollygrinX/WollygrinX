@@ -1,6 +1,8 @@
 # Hi there, I'm Walacy ⚓️
 
-##
+# Um pouco sobre mim
+
+Hello, how are you? Sorry, I'm not good at describing myself or telling a little bit of my stories. I'm currently trying to enter the job market as a programmer.🤷🏽‍♂️
 
 
 
