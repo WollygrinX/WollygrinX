@@ -27,5 +27,6 @@ Hello, how are you? Sorry, I'm not good at describing myself or telling a little
 <img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
 </div><br>
 
-![WollygrinX GitHub stats](https://github-readme-stats.vercel.app/api?username=wollygrinx&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wollygrinx&layout=compact)
 
