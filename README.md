@@ -2,7 +2,8 @@
 
 # A little about myself?
 
-Hello, how are you? Sorry, I'm not good at describing myself or telling a little bit of my stories. I'm currently trying to enter the job market as a programmer.🤷🏽‍♂️
+
+I'm a former musician passionate about technology, currently I'm super focused on studying programming language.💻
 
 
 
