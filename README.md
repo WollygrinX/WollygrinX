@@ -7,10 +7,8 @@ I'm a former musician passionate about technology, currently I'm super focused o
 
 
 
-
-
 # Languages I am currently studying
-
+[![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)
 
 
 
