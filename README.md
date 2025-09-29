@@ -26,8 +26,8 @@ I'm a former musician passionate about technology, currently I'm super focused o
 - **PHP** (noções básicas)  
 
 [![My Skills](https://skillicons.dev/icons?i=java,&theme=light)](https://skillicons.dev)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white">
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## Basic web developer
 <div style="display:inline_block">
