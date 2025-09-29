@@ -25,7 +25,7 @@ I'm a former musician passionate about technology, currently I'm super focused o
 - **JavaScript** (fundamentos e lógica de programação)  
 - **PHP** (noções básicas)  
 
-[![My Skills](https://skillicons.dev/icons?i=java,&theme=light)](https://skillicons.dev)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
