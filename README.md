@@ -8,7 +8,7 @@ I'm a former musician passionate about technology, currently I'm super focused o
 
 ### 🛠️ Tools I use
 
- **IDE:** IntelliJ IDEA  
+- **IDE:** IntelliJ IDEA  
 - **Editors:** VS Code (frontend)  
 - **Learning Platforms:** SenaiPR,W3Schools, Mimo  
 - **Version Control:** Git & GitHub  
