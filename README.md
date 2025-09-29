@@ -9,7 +9,7 @@ I'm a former musician passionate about technology, currently I'm super focused o
 ### 🛠️ Tools I use
 
  **IDE:** IntelliJ IDEA  
-- **Editors:** VS Code (para frontend)  
+- **Editors:** VS Code (frontend)  
 - **Learning Platforms:** SenaiPR,W3Schools, Mimo  
 - **Version Control:** Git & GitHub  
 
@@ -18,8 +18,7 @@ I'm a former musician passionate about technology, currently I'm super focused o
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![W3Schools](https://img.shields.io/badge/W3Schools-0EBEFF?style=for-the-badge&logo=w3schools&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 # Languages I am currently studying
 
