@@ -20,10 +20,15 @@ I'm a former musician passionate about technology, currently I'm super focused o
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-# Languages I am currently studying
+### 💻 Currently Learning
+- **Java** ☕ (minha linguagem principal no momento)  
+- **SQL** 🗄️ (aprendendo banco de dados junto com Java)  
+- **JavaScript** (fundamentos e lógica de programação)  
+- **PHP** (noções básicas)  
 
 [![My Skills](https://skillicons.dev/icons?i=java,&theme=light)](https://skillicons.dev)
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white">
 
 ## Basic web developer
 <div style="display:inline_block">
@@ -33,7 +38,6 @@ I'm a former musician passionate about technology, currently I'm super focused o
 <img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
-   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white">
 </div>
 </div><br>
 
