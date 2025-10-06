@@ -45,5 +45,5 @@ I'm a former musician passionate about technology, currently I'm super focused o
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wollygrinx&langs_count=8)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/wollygrinx/github-readme-stats)
+![Wollygrin GitHub stats](https://github-readme-stats.vercel.app/api?username=wollygrinx&show_icons=true&theme=radical)
 
