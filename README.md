@@ -43,3 +43,6 @@ I'm a former musician passionate about technology, currently I'm super focused o
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wollygrinx&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wollygrinx&langs_count=8)
+
+
