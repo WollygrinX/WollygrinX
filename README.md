@@ -3,7 +3,7 @@
 # A little about myself?
 
 
-I'm a former musician passionate about technology, currently I'm super focused on studying programming language.💻
+I'm passionate about technology and have always been curious about what happens behind the scenes, how everything works in the world of programming and electronics.💻
 
 
 ### 🛠️ Tools I use
