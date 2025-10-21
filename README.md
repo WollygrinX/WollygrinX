@@ -1,4 +1,4 @@
-# Hi there, I'm Walacy(WollygrinX) ⚓️
+# Hi there, I'm Walacy(WollygrinX) ☕
 
 # A little about myself?
 
