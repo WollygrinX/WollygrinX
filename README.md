@@ -1,10 +1,25 @@
-# Hi there, I'm Walacy ☕
+Hi there, I'm Walacy ☕  
 
-# A little about myself?
+## 👋 About me  
 
+I'm a beginner software developer focused on **backend development with Java**.  
+Currently studying programming fundamentals and practicing through small projects and exercises.  
 
-I'm passionate about technology and have always been curious about what happens behind the scenes, how everything works in the world of programming and electronics.💻
+I have basic knowledge of:  
+- Java (control flow, loops, input/output, basic logic)  
+- HTML, CSS and JavaScript  
 
+I'm interested in using technology to improve real-world processes, especially in areas like:  
+- Automation  
+- System organization  
+- Simple backend services  
+- Process improvement  
+
+My long-term goal is to grow into a solid backend developer and build practical solutions that help people and small businesses.  
+
+🚀 Learning every day  
+💻 Building small projects  
+🎯 Looking for my first opportunity in tech (internship / trainee)  
 
 ### 🛠️ Tools I use
 
